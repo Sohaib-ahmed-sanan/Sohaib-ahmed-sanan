@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am working on laravel 12 and javascript<br>Open to any exceiting opportunity.<br>Learning node and express js
-
+- 👋 Hi, I’m @Sohaib-ahmed-sanan
+- 👀 I’m interested in Data science data management and app development
+- 🌱 In the field of technology everyone need to upgrade his skills. So as I, Currently i'm  working on Android/IOS apps development via flutter. 
+- 💞️ I’m looking to collaborate on projects as a backend developer.
+- 📫 You can reach me out on LinkedIn Email and on GitHub.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohaib_ahmd_sanan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sohaib ahmed sanan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaibahmedsanan448@gmail.com) 
