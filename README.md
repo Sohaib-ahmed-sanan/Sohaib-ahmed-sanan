@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on projects as a backend developer.
 - 📫 You can reach me out on LinkedIn Email and on GitHub.
 
+## Cirtificates
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b56cde9-d284-4564-8277-1d32a60f80fe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohaib_ahmd_sanan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sohaib ahmed sanan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaibahmedsanan448@gmail.com) 
 
